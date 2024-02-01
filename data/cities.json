@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "19ab",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-01T21:07:00.741Z",
+      "notes": "",
+      "position": {
+        "lat": "40.015634121035006",
+        "lng": "-0.011342162793051003"
+      }
+    },
+    {
+      "id": "678f",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-01T21:07:06.172Z",
+      "notes": "",
+      "position": {
+        "lat": "40.09067705635544",
+        "lng": "-0.04172133358643083"
+      }
+    },
+    {
+      "id": "acdc",
+      "cityName": "Petrer",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-01T21:07:19.643Z",
+      "notes": "",
+      "position": {
+        "lat": "38.51981143404504",
+        "lng": "-0.7583608409065447"
+      }
+    },
+    {
+      "id": "9cf8",
+      "cityName": "’Ain Merane",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-02-01T21:07:22.004Z",
+      "notes": "",
+      "position": {
+        "lat": "36.170252672301466",
+        "lng": "0.9869622236949074"
+      }
+    }
+  ]
+}
