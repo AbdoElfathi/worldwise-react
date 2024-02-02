@@ -1,51 +1,51 @@
 {
   "cities": [
     {
-      "id": "19ab",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-01T21:07:00.741Z",
+      "id": "3d35",
+      "cityName": "Agadir",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-02-01T21:56:08.850Z",
       "notes": "",
       "position": {
-        "lat": "40.015634121035006",
-        "lng": "-0.011342162793051003"
+        "lat": "30.463930108611546",
+        "lng": "-9.382324218750002"
       }
     },
     {
-      "id": "678f",
+      "id": "d4ca",
       "cityName": "Borriol",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-02-01T21:07:06.172Z",
+      "date": "2024-02-02T11:04:05.690Z",
       "notes": "",
       "position": {
-        "lat": "40.09067705635544",
-        "lng": "-0.04172133358643083"
+        "lat": "40.02807340767619",
+        "lng": "-0.07141113281250001"
       }
     },
     {
-      "id": "acdc",
-      "cityName": "Petrer",
+      "id": "1903",
+      "cityName": "Reading",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-02-02T11:04:54.578Z",
+      "notes": "",
+      "position": {
+        "lat": "51.47984223911699",
+        "lng": "-1.0343688939582998"
+      }
+    },
+    {
+      "id": "00f8",
+      "cityName": "Borriol",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-02-01T21:07:19.643Z",
+      "date": "2024-02-02T11:08:50.327Z",
       "notes": "",
       "position": {
-        "lat": "38.51981143404504",
-        "lng": "-0.7583608409065447"
-      }
-    },
-    {
-      "id": "9cf8",
-      "cityName": "’Ain Merane",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-02-01T21:07:22.004Z",
-      "notes": "",
-      "position": {
-        "lat": "36.170252672301466",
-        "lng": "0.9869622236949074"
+        "lat": "40.038371733256426",
+        "lng": "-0.13801574707031253"
       }
     }
   ]
